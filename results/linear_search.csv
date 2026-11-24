@@ -1,0 +1,16 @@
+n,target,measured
+10,start,1
+10,middle,5
+10,end,10
+10,missing,10
+10,average (all present),5.5
+100,start,1
+100,middle,50
+100,end,100
+100,missing,100
+100,average (all present),50.5
+1000,start,1
+1000,middle,500
+1000,end,1000
+1000,missing,1000
+1000,average (all present),500.5
